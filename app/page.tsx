@@ -86,7 +86,7 @@ export default function Home() {
              className="flex items-center justify-center gap-2 text-stone-400 text-lg sm:text-xl font-light tracking-wide"
            >
               <MapPin size={20} className="text-orange-500" />
-              <span>Satre Angthong School</span>
+              <span>Satri Angthong School</span>
            </motion.div>
         </div>
 
